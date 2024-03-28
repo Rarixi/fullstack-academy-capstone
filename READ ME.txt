@@ -1,0 +1,16 @@
+For my capstone project at Fullstack Academy's Cyber Security Bootcamp, I have developed a sophisticated keylogger program designed for educational purposes only. This keylogger serves as a demonstration tool to understand the potential risks associated with cybersecurity vulnerabilities and to explore defensive strategies against them.
+
+The keylogger I've created possesses several functionalities aimed at illustrating various aspects of cybersecurity threats and defense mechanisms. Firstly, it captures keystrokes made on the host device, providing insight into potential data breaches and unauthorized access attempts. Additionally, the program records snapshots of the host device's screen, offering visual documentation of user activity.
+
+Furthermore, the keylogger has the capability to record audio from the host device, showcasing the potential risks associated with eavesdropping attacks. Alongside these functionalities, the program gathers essential information about the host device, including its hostname, public and IP addresses, aiding in understanding potential points of entry for malicious actors.
+
+To ensure data security and privacy, the keylogger employs encryption and decryption techniques using cryptographic keys. This feature highlights the importance of implementing robust encryption measures to safeguard sensitive information from unauthorized access.
+
+Moreover, the program includes functionality to delete captured files, thereby demonstrating techniques for covering tracks and minimizing the potential impact of security breaches.
+
+It's imperative to emphasize that this keylogger is developed solely for educational purposes within the context of the Fullstack Academy Cyber Security Bootcamp. It serves as a learning tool to enhance understanding of cybersecurity principles, threats, and defensive strategies. Under no circumstances should this tool be used for malicious purposes or activities that infringe upon the privacy and security of individuals or organizations.
+
+
+
+
+
